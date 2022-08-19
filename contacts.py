@@ -3,11 +3,12 @@
 # name, address, email & main phone number.
 # The program makes the following assumptions:
 # The input file comes from Google contacts with a download of the name
-# "contacts.csv" in comma seperated variable (CSV) format
-# The output file is called contactsOut.csv.
+# "contacts.csv" in comma separated variable (CSV) format.
+# The output file is called contactsOut.csv .
 # Edit contactsOut.csv: Line 1 needs to be edited to be the desired column
 # headings. Tab separated. The file is then imported back into a google sheets
-# document, the column separator "Tab" is selected. When the import is complete
+# document, the column separator "Tab" is selected. When the import into the 
+# spreadsheet is complete is complete
 # set column widths and justification as desired. Export again as a pdf. It
 # It can be found in the download folder as contactsOut.pdf
 
